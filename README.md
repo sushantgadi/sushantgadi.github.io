@@ -1,11 +1,11 @@
 ## Hey 👋, I'm [Sushant Kumar Gadi!](https://github.com/sushantgadi/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/savani78)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://savanipoojan78.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/poojan_savani)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](www.linkedin.com/in/sushantgadi)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sushantgadi.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sushantgadi)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=savanipoojan78.savanipoojan78&style=flat-square&color=0088cc)
+### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sushantgadi.sushantgadi&style=flat-square&color=0088cc)
 
 I'm currently working in Optum Technology. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Devops and working on my Data Structures and Algorithms 🤓.
 
