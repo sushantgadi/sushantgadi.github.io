@@ -5,7 +5,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sushantgadi)
 
 
-### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sushantgadi.sushantgadi&style=flat-square&color=0088cc)
+### Great to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sushantgadi.sushantgadi&style=flat-square&color=0088cc)
 
 I'm currently working as Manager Software Engineer at Optum(United Health Group). I'm a passionate learner who's always willing to learn and work across technologies and domains, I got a chance to work on variety of domains like : Healthcare, Finance, Digital Marketing, Travel and Hospitality 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Full Stack Engineering and working on my Application Design Skills🤓.
 
