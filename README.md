@@ -7,26 +7,30 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sushantgadi.sushantgadi&style=flat-square&color=0088cc)
 
-I'm currently working in Optum Technology. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Devops and working on my Data Structures and Algorithms 🤓.
+I'm currently working as Manager Software Engineer at Optum(United Health Group). I'm a passionate learner who's always willing to learn and work across technologies and domains, I got a chance to work on variety of domains like : Healthcare, Finance, Digital Marketing, Travel and Hospitality 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Full Stack Engineering and working on my Application Design Skills🤓.
 
-<img align="right" height="250" width="375" alt="" src="https://media.giphy.com/media/Vbtc9VG51NtzT1Qnv1/giphy.gif" />
+<img align="right" height="250" width="375" alt="" src="https://acegif.com/wp-content/gifs/hello-37.gif" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Docker,Jenkins,AKS, <br /> Graphql, Mongodb, Javascript, etc.
-- 🚀 &nbsp; I’m currently learning Devops.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/savanipoojan78).
+- 🛠 &nbsp; I’m currently working on Java/J2EE, Spring, Microservices, Angular, Javascript, CICD Pipeline, Jenkins, Docker, Kubernetes, Kafka, Elastic Search, Azure, AWS, AEM, Python, AI/ML,
+- 🚀 &nbsp; I’m currently learning application design and architecting applications.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sushantgadi).
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: savanipoojan78@gmail.com
+- 📫 &nbsp; How to reach me: sushantgadi@gmail.com
 
 ### Certified
 <p>
- <a href="https://www.credly.com/badges/4b75570d-c9b0-4d3d-8c41-0b8044871dfe/public_url" target="_blank">
-<img src="https://user-images.githubusercontent.com/33199323/134687280-5be9514a-7c4c-468a-a757-21c9a0315f4f.png"/>
+ <a href="https://www.credly.com/badges/600d688c-cfde-46c0-b4fc-b0db7fc45424" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png"/>
 </a>
-	<a href="https://www.credly.com/badges/4244bbde-27a5-4905-97d7-9f3afea55eca/public_url" target="_blank">
-		<img src="https://user-images.githubusercontent.com/33199323/134688112-62eb8880-0bb4-414b-bd09-d37bdfc48503.png"/>
-	</a>
+<a href="https://www.credly.com/badges/295674b0-1a63-423b-9690-d6a71a8a928d" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
+</a>
+<a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
+<img src="https://www.rackspace.com/sites/default/files/rxt_partner_logos/AEM.png"/>
+</a>
+	
 </p>
 
 ### Languages and Tools:
