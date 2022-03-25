@@ -28,7 +28,7 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
 </a>
 <a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
-<img src="https://www.rackspace.com/sites/default/files/rxt_partner_logos/AEM.png"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbqM2HU1_jWVgl3OQu_N61Sv2SEY1HJlDdrMmGGGSJd_vPgKm-4rjUUuH9hhfpqAFAj8&usqp=CAU"/>
 </a>
 	
 </p>
@@ -63,7 +63,7 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
   <summary><b>⚙️ Things I use to get stuff done</b></summary>
   	<ul>
   	    <li><b>OS:</b> Ubuntu 20.04</li>
-	    <li><b>Laptop: </b> HP Elitebook (i7)</li>
+	    <li><b>Laptop: </b> Macbook Pro</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
 	    <li><b>To Stay Updated:</b> Dev.to, Medium and Twitter</li>
