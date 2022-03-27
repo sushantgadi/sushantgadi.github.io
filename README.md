@@ -28,9 +28,11 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
 </a>
 <a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
+<img src="https://itnium.com/Images/ocjp.jpg"/>
+</a>
+<a href="https://drive.google.com/file/d/1YO2wT_LTz1Mp4v5mV6N33a5zFK-3hcua/view" target="_blank">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbqM2HU1_jWVgl3OQu_N61Sv2SEY1HJlDdrMmGGGSJd_vPgKm-4rjUUuH9hhfpqAFAj8&usqp=CAU"/>
 </a>
-	
 </p>
 
 ### Languages and Tools:
