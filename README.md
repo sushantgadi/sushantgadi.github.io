@@ -70,7 +70,7 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
 	    <li><b>Laptop: </b> Macbook Pro</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Code Editor:</b> VSCode, Intellij</li>
-	    <li><b>To Stay Updated:</b> LinkedIn Learning, Youtube, Dev.to, Medium, Twitter</li>
+	    <li><b>To Stay Updated:</b> LinkedIn Learning, Pluralsight, Youtube, Dev.to, Medium, Twitter</li>
 	    <br />
 	</ul>	
 </details>
