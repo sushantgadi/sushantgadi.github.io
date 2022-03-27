@@ -31,7 +31,7 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
 <img src="https://itnium.com/Images/ocjp.jpg"  width="200" height="200" alt="OCJP"/>
 </a>
 <a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
-<img src="https://kristiancoding.files.wordpress.com/2014/11/certified_expert_adobe_experience_manager_developer_badge.png"  width="200" height="200" alt="AEM"/>
+<img src="https://kristiancoding.files.wordpress.com/2014/11/certified_expert_adobe_experience_manager_developer_badge.png"  width="200" height="100" alt="AEM"/>
 </a>
 </p>
 
