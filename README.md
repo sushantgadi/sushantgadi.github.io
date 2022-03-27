@@ -22,16 +22,16 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
 ### Certified
 <p>
  <a href="https://www.credly.com/badges/600d688c-cfde-46c0-b4fc-b0db7fc45424" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" width="200" height="200"/>
+<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" alt="Azure Architect" width="200" height="200"/>
 </a>
 <a href="https://www.credly.com/badges/295674b0-1a63-423b-9690-d6a71a8a928d" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  width="200" height="200"/>
-</a>
-<a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
-<img src="https://itnium.com/Images/ocjp.jpg"  width="200" height="200"/>
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamental" width="200" height="200"/>
 </a>
 <a href="https://drive.google.com/file/d/1YO2wT_LTz1Mp4v5mV6N33a5zFK-3hcua/view" target="_blank">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkbqM2HU1_jWVgl3OQu_N61Sv2SEY1HJlDdrMmGGGSJd_vPgKm-4rjUUuH9hhfpqAFAj8&usqp=CAU"  width="200" height="200"/>
+<img src="https://itnium.com/Images/ocjp.jpg"  width="200" height="200" alt="OCJP"/>
+</a>
+<a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
+<img src="https://kristiancoding.files.wordpress.com/2014/11/certified_expert_adobe_experience_manager_developer_badge.png"  width="200" height="200" alt="AEM"/>
 </a>
 </p>
 
