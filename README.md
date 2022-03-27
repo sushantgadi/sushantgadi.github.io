@@ -7,16 +7,16 @@
 
 ### Great to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sushantgadi.sushantgadi&style=flat-square&color=0088cc)
 
-I'm currently working as Manager Software Engineer at Optum(United Health Group). I'm a passionate learner who's always willing to learn and work across technologies and domains, I got a chance to work on variety of domains like : Healthcare, Finance, Digital Marketing, Travel and Hospitality 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Full Stack Engineering and working on my Application Design Skills🤓.
+I'm currently working as Manager Software Engineer at Optum(United Health Group). I'm a passionate learner who's always willing to learn and work across technologies and domains, I got a chance to work on variety of domains like : Healthcare, Finance, Digital Marketing, Travel and Hospitality 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Full Stack Engineering and working on my Application Design Skills🤓
 
-<img align="right" height="500" width="350" alt="" src="https://raw.githubusercontent.com/sushantgadi/sushantgadi.github.io/main/docs/hello.gif" />
+<img align="right" height="500" width="350" alt="Hello" src="https://raw.githubusercontent.com/sushantgadi/sushantgadi.github.io/main/docs/hello.gif" />
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on Java/J2EE, Spring, Microservices, Angular, Javascript, CICD Pipeline, Jenkins, Docker, Kubernetes, Kafka, Elastic Search, Azure, AWS, AEM, Python, AI/ML,
 - 🚀 &nbsp; I’m currently learning application design and architecting applications.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sushantgadi).
-- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 👾 &nbsp; Fun fact: Debugging takes more time than actually writing the code.
 - 📫 &nbsp; How to reach me: sushantgadi@gmail.com
 
 ### Certified
