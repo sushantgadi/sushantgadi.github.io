@@ -21,8 +21,8 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
 
 ### Certified
 <p>
- <a href="https://www.credly.com/badges/600d688c-cfde-46c0-b4fc-b0db7fc45424" target="_blank" height="200" width="400" alt="">
-<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png"/>
+ <a href="https://www.credly.com/badges/600d688c-cfde-46c0-b4fc-b0db7fc45424" target="_blank">
+<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" width="300" height="300"/>
 </a>
 <a href="https://www.credly.com/badges/295674b0-1a63-423b-9690-d6a71a8a928d" target="_blank">
 <img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"/>
