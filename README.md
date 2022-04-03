@@ -9,7 +9,7 @@
 
 I'm currently working as Manager Software Engineer at Optum(United Health Group). I'm a passionate learner who's always willing to learn and work across technologies and domains, I got a chance to work on variety of domains like : Healthcare, Finance, Digital Marketing, Travel and Hospitality 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Full Stack Engineering and working on my Application Design Skills🤓
 
-<img align="right" height="500" width="350" alt="Hello" src="https://raw.githubusercontent.com/sushantgadi/sushantgadi.github.io/main/docs/hello.gif" />
+<img align="right" height="500" width="350" alt="Hello" src="https://github.com/sushantgadi/sushantgadi.github.io/blob/main/images/hello.gif?raw=true" />
 
 ### Talking about Personal Stuffs:
 
