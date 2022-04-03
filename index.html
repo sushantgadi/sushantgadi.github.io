@@ -1,0 +1,660 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <title>Poojan - Personal Portfolio</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link href="../../../fonts.googleapis.com/css716c.css?family=Lato:400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css">
+
+    <!-- Template CSS Files -->
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/jquery.animatedheadline.css" />
+    <link rel="stylesheet" type="text/css" href="css/materialize.min.css" />
+    <link rel="stylesheet" type="text/css" href="css/style.css" />
+    <link rel="stylesheet" type="text/css" href="css/skins/yellow.css" />
+
+    <!-- Template JS Files -->
+    <script src="js/modernizr.custom.js"></script>
+
+</head>
+
+<body class="dark">
+    <!-- Preloader Start -->
+    <div id="loader-wrapper">
+        <div id="loader"></div>
+        <div class="loader-section section-left"></div>
+        <div class="loader-section section-right"></div>
+    </div>
+    <!-- Preloader Ends -->
+    <!-- Live Style Switcher Starts - demo only -->
+    <div id="switcher" class="">
+        <!-- <div class="content-switcher">
+            <h4>STYLE SWITCHER</h4>
+            <ul>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('purple');" title="purple" class="color"><img src="images/styleswitcher/purple.png" alt="purple"/></a>
+                </li>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('red');" title="red" class="color"><img src="images/styleswitcher/red.png" alt="red"/></a>
+                </li>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('blueviolet');" title="blueviolet" class="color"><img src="images/styleswitcher/blueviolet.png" alt="blueviolet"/></a>
+                </li>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('blue');" title="blue" class="color"><img src="images/styleswitcher/blue.png" alt="blue"/></a>
+                </li>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('goldenrod');" title="goldenrod" class="color"><img src="images/styleswitcher/goldenrod.png" alt="goldenrod"/></a>
+                </li>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('magenta');" title="magenta" class="color"><img src="images/styleswitcher/magenta.png" alt="magenta"/></a>
+                </li>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('yellowgreen');" title="yellowgreen" class="color"><img src="images/styleswitcher/yellowgreen.png" alt="yellowgreen"/></a>
+                </li>
+                <li>
+                    <a href="#" onclick="setActiveStyleSheet('orange');" title="orange" class="color"><img src="images/styleswitcher/orange.png" alt="orange"/></a>
+                </li>
+				<li>
+                    <a href="#" onclick="setActiveStyleSheet('green');" title="green" class="color"><img src="images/styleswitcher/green.png" alt="green"/></a>
+                </li>
+				<li>
+                    <a href="#" onclick="setActiveStyleSheet('yellow');" title="yellow" class="color"><img src="images/styleswitcher/yellow.png" alt="yellow"/></a>
+                </li>
+            </ul>
+			<h4>BODY SKIN</h4>
+
+           <label> <input class="dark_switch" type="radio" name="color_style" id="is_light" value="light" /> Light</label>
+		<label> <input class="dark_switch" type="radio" name="color_style" id="is_dark" value="dark"  checked="checked" />  Dark</label><br>
+			
+            <a href="#" class="waves-effect waves-light btn font-weight-700 purchase hoverable"><i class="fa fa-shopping-cart"></i> Purchase</a>
+            <div id="hideSwitcher">&times;</div>
+        </div> -->
+    </div>
+    <!-- <div id="showSwitcher" class="styleSecondColor"><i class="fa fa-cog fa-spin"></i></div> -->
+    <!-- Live Style Switcher Ends - demo only -->
+    <!-- Wrapper Starts -->
+    <div class="wrapper">
+		<div class="main-picture profile hide-on-med-and-down">
+		</div>
+        <div id="bl-main" class="bl-main">
+            <!-- Top Left Section Starts -->
+            <section class="topleft">
+                <div class="bl-box row valign-wrapper">
+                    <div class="row valign-wrapper mb-0">
+                        <div class="title-heading">
+                            <div class="selector uppercase" id="selector">
+                                <h3 class="ah-headline p-none m-none">
+                                    <span class="font-weight-400">Hey There ! I'm</span>
+									<span class="my-name">Sushant Gadi</span>
+                                    <span class="ah-words-wrapper">
+										<b class="is-visible">Explorer</b>
+										<b>Developer</b>
+										<b>Blogger</b>
+									</span>
+                                </h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Top Left Section Ends -->
+            <!-- About Section Starts -->
+            <section>
+                <!-- About Title Starts -->
+                <div class="bl-box valign-wrapper">
+                    <div class="page-title center-align">
+                        <h2 class="center-align">
+                            <span data-hover="About">About </span>
+                            <span data-hover="Me">Me</span>
+                        </h2>
+                    </div>
+                </div>
+                <!-- About Title Ends -->
+                <!-- About Expanded Starts -->
+                <div class="bl-content">
+                    <!-- Main Heading Starts -->
+                    <div class="container page-title custom-page-title">
+                        <h2 class="center-align">
+                            <span>About</span>
+                            <span>Me</span>
+                        </h2>
+                    </div>
+                    <!-- Main Heading Ends -->
+                    <div class="container infos">
+						<!-- Divider Starts -->
+                        <div class="divider center-align">
+                            <span class="outer-line"></span>
+                            <span class="fa fa-vcard" aria-hidden="true"></span>
+                            <span class="outer-line"></span>
+                        </div>
+						<!-- Divider Ends -->
+						<!-- Personal Informations Starts -->
+                        <div class="row">
+							<!-- Picture Starts -->
+                            <div class="col s12 m4 profile-picture show-on-medium-and-down section-padding">
+								<img src="images/photo-1.jpeg" class="responsive-img my-picture" alt="My Photo">
+                            </div>
+							<!-- Picture Ends -->
+                            <div class="col s12 m8 l12 xl12 personal-info section-padding">
+                                <h6 class="uppercase"><i class="fa fa-user"></i> Personal Info</h6>
+								<div class="col m12 l12 xl9 p-none">
+									<p class="second-font">I'm a Freelance Web Designer & Backend Developer based in Gujarat, India.
+									I have serious passion for Backend Architecture, Java- Nodejs Services and open-source-projects.
+									</p>
+								</div>
+                                <div class="col s12 m12 l6 p-none">
+                                    <ul class="second-font list-1">
+                                        <li><span class="font-weight-700">First Name: </span>Sushant Kumar</li>
+                                        <li><span class="font-weight-700">Last Name: </span>Gadi</li>
+                                        <li><span class="font-weight-700">Date of birth: </span>11 Sep 1989 </li>
+                                        <li><span class="font-weight-700">Nationality: </span>Indian</li>
+										<li><span class="font-weight-700">OpenSource Development: </span>Might Available</li>
+                                    </ul>
+                                </div>
+                                <div class="col s12 m12 l6 p-none">
+                                    <ul class="second-font list-2">
+                                        <li><span class="font-weight-700">Phone: </span>+91-7678201117</li>
+                                        <li><span class="font-weight-700">Address: </span>Lucknow, India</li>
+                                        <li><span class="font-weight-700">Email: </span>sushantgadi@gmail.com</li>
+                                        <li><span class="font-weight-700">Spoken Langages: </span>English - Hindi - Punjabi</li>
+										<a href="https://github.com/sushantgadi" target="_blank"><li><span class="font-weight-700">Github: </span>sushantgadi</li></a>
+                                    </ul>
+                                </div>
+                                <a href="#" class="btn font-weight-700">
+									Download Resume <i class="fa fa-file-pdf-o"></i>
+								</a>
+								<a href="blog-dark.html" class="btn btn-blog font-weight-700">
+									My Blog <i class="fa fa-edit"></i>
+								</a>
+                            </div>
+                        </div>
+						<!-- Personal Informations Ends -->
+                    </div>
+					<!-- Resume Starts -->
+					<div class="resume-container">
+                        <div class="container">
+                            <div class="valign-wrapper row">
+								<!-- Resume Menu Starts -->
+                                <div class="resume-list col l4 section-padding">
+                                    <div class="resume-list-item is-active" data-index="0" id="resume-list-item-0">
+                                        <div class="resume-list-item-inner">
+                                            <h6 class="resume-list-item-title uppercase"><i class="fa fa-briefcase"></i> Experience</h6>
+                                        </div>
+                                    </div>
+                                    <div class="resume-list-item" data-index="1" id="resume-list-item-1">
+                                        <div class="resume-list-item-inner">
+                                            <h6 class="resume-list-item-title uppercase"><i class="fa fa-graduation-cap"></i> Education</h6>
+                                        </div>
+                                    </div>
+                                    <div class="resume-list-item" data-index="2" id="resume-list-item-2">
+                                        <div class="resume-list-item-inner">
+                                            <h6 class="resume-list-item-title uppercase"><i class="fa fa-star"></i> Skills</h6>
+                                        </div>
+                                    </div>
+                                </div>
+								<!-- Resume Menu Ends -->
+								<!-- Resume Content Starts -->
+                                <div class="col s12 m12 l8 resume-cards-container section-padding">
+                                    <div class="resume-cards">
+										<!-- Experience Starts -->
+                                        <div class="resume-card resume-card-0" data-index="0">
+											<!-- Experience Header Title Starts -->
+                                            <div class="resume-card-header">
+                                                <div class="resume-card-name"><i class="fa fa-briefcase"></i> Experience</div>
+                                            </div>
+											<!-- Experience Header Title Ends -->
+											<!-- Experience Content Starts -->
+                                            <div class="resume-card-body experience">
+                                                <div class="resume-card-body-container second-font">
+                                                    <!-- Single Experience Starts -->
+                                                    <div class="resume-content">
+														<h6 class="uppercase"><span>Noon Academy - </span>Banglore</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i>Jan'20 - Jun'20</span>
+														<p>Noon Academy is one of the fastest growing EdTech startups in the Middle East, with over 6 Million registered students (KSA & Egypt & India) and rapidly expanding to other geographies.In this Internship I learned Java-Nodejs services how to deploy it in production
+                                                            How to debug Production-bug and this internship was in COVID so the whole WFH experience was awesome and all the team memeber was so supprotive.
+                                                        </p>
+                                                    </div>
+                                                    <span class="separator"></span>
+										           <!-- Single Experience Starts -->
+                                                    <div class="resume-content">
+														<h6 class="uppercase"><span>Moodcafe - </span> IIM Ahmedabad</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i>May'19 - July'19</span>
+														<p>Moodcafe is a mental health based startup that aims to bring a new-age empathetic caring approach to mental health.In that Internship Worked on the Moodcafe Application, Implemented New Features in the Moodcafe App and also improved the current app.</p>
+                                                    </div>
+													<!-- Single Experience Ends -->
+                                                    <span class="separator"></span>
+
+                                                    <!-- Single Experience Starts -->
+                                                    <div class="resume-content">
+														<h6 class="uppercase"><span>Learn SEO - </span>Google Digital unlocked</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i>Feb'17 - March'17</span>
+														<p>I heard about the Google SEO cources and how Google search engine and its web-crawler is working and what can you do to increase the chanes of your website visibility to the user.</p>
+                                                    </div>
+													<!-- Single Experience Ends -->
+                                                    <span class="separator"></span>
+													<!-- Single Experience Starts -->
+                                                    <div class="resume-content">
+														<h6 class="uppercase"><span>Web Designer - </span>SilverWings Technology,Ahmedabad.</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> Jan'17 - March'17</span>
+														<p>It was my First Internship in first year just to know the basic of html/css/scss. How to use it how to deploy your static Website</p>
+                                                    </div>
+													<!-- Single Experience Ends -->
+													
+                                                </div>
+                                            </div>
+											<!-- Experience Content Starts -->
+                                        </div>
+										<!-- Experience Ends -->
+										<!-- Education Starts -->
+                                        <div class="resume-card resume-card-1" data-index="1">
+											<!-- Education Header Title Starts -->
+                                            <div class="resume-card-header">
+                                                <div class="resume-card-name"><i class="fa fa-graduation-cap"></i> Education</div>
+                                            </div>
+											<!-- Education Header Title Starts -->
+                                            <div class="resume-card-body education">
+                                                <div class="resume-card-body-container second-font">
+													<!-- Single Education Starts -->
+                                                    <div class="resume-content">
+														<h6 class="uppercase"><span>B.Tech in Computer Science- </span>Nirma University</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> 2016 - 2020</span>
+														<p>This College was life changing for me all the cool friends,endless nights, hackathons, Bunks but at the ends we didn't have a proper Convocation it sucks.</p>
+                                                        <p>CGPA :- 7.86</p>
+                                                    </div>
+													<!-- Single Education Ends -->
+                                                    <span class="separator"></span>
+													<!-- Single Education Starts -->
+                                                    <div class="resume-content">
+														<h6 class="uppercase"><span>Junior College </span>P.P.Savani Vidhyabhavan</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> 2015 - 2016</span>
+														<p>Percentage:- 87.2%</p>
+                                                    </div>
+													<!-- Single Education Ends -->
+                                                    <span class="separator"></span>
+													<!-- Single Education Starts -->
+                                                    <div class="resume-content">
+														<h6 class="uppercase"><span>High school - </span>P.P.Savani Vidhyabhavan</h6>
+														<span class="date"><i class="fa fa-calendar-o"></i> 2013 - 2014</span>
+														<p>Percentage :- 89.33%</p>
+                                                    </div>
+													<!-- Single Education Ends -->
+                                                </div>
+                                            </div>
+                                        </div>
+										<!-- Education Ends -->
+										<!-- Skills Starts -->
+                                        <div class="resume-card resume-card-2" data-index="2">
+											<!-- Skills Header Title Starts -->
+                                            <div class="resume-card-header">
+                                                <div class="resume-card-name"><i class="fa fa-star"></i> Skills</div>
+                                            </div>
+											<!-- Skills Header Title Starts -->
+                                            <div class="resume-card-body skills">
+                                                <div class="resume-card-body-container second-font">
+                                                    <div class="row">
+														<!-- Skills Row Starts -->
+                                                        <div class="col s6">
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1><i class="devicon-html5-plain-wordmark"></i></h1>
+																
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1><i class="devicon-css3-plain-wordmark"></i></h1>
+											
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+                                                                <h1><i class="devicon-javascript-plain-wordmark"></i></h1>
+                                            
+											
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1><i class="devicon-nodejs-plain-wordmark"></i></h1>
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1 class="uppercase"><i class="devicon-java-plain-wordmark"></i></h1>
+											
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1 class="uppercase"><i class="devicon-go-plain"></i></h1>
+											
+                                                            </div>
+															<!-- Single Skills Ends -->
+                                                        </div>
+														<!-- Skills Row Ends -->
+														<!-- Skills Row Starts -->
+                                                        <div class="col s6">
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1 class="uppercase"><i class="devicon-amazonwebservices-plain-wordmark"></i></h1>
+																
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1 class="uppercase"><i class="devicon-mongodb-plain-wordmark"></i></h1>
+																
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1 class="uppercase"><i class="devicon-git-plain-wordmark"></i></h1>
+																
+                                                            </div>
+															<!-- Single Skills Ends -->
+															<!-- Single Skills Starts -->
+                                                            <div class="resume-content">
+																<h1 class="uppercase"><i class="devicon-android-plain-wordmark"></i></h1>
+																
+                                                            </div>
+                                                            <div class="resume-content">
+																<h1 class="uppercase"><!-- in your body -->
+                                                                    <i class="devicon-npm-original-wordmark"></i></h1>
+																
+                                                            </div>
+														
+                                                        </div>
+														<!-- Skills Row Ends -->
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+										<!-- Skills Ends -->
+                                    </div>
+                                </div>
+								<!-- Resume Content Ends -->
+                            </div>
+                        </div>
+                    </div>
+					<!-- Resume Ends -->
+					<!-- Fun Facts Starts -->
+                    <div class="container badges">
+                        <div class="row">
+                            <!-- Fact Badge Item Starts -->
+                            <div class="col s12 m4 l4 center-align">
+                                <h3>
+                                    <i class="fa fa-briefcase"></i>
+									<span class="font-weight-900">1+</span>
+                                </h3>
+                                <h6 class="uppercase font-weight-700">Years Experience</h6>
+                            </div>
+                            <!-- Fact Badge Item Ends -->
+                            <!-- Fact Badge Item Starts -->
+                            <div class="col s12 m4 l4 center-align">
+                                <h3>
+                                    <i class="fa fa-handshake-o"></i>
+									<span class="font-weight-900">10+</span>
+                                </h3>
+                                <h6 class="uppercase font-weight-700">Done Projects</h6>
+                            </div>
+                            <!-- Fact Badge Item Ends -->
+                            <!-- Fact Badge Item Starts -->
+                            <div class="col s12 m4 l4 center-align">
+                                 <h3>
+                                    <i class="fa fa-heart-o"></i>
+									<span class="font-weight-900">5+</span>
+                                </h3>
+                                <h6 class="uppercase font-weight-700">Happy customers</h6>
+                            </div>
+                            <!-- Fact Badge Item Ends -->
+                        </div>
+                    </div>
+					<!-- Fun Facts Ends -->
+                </div>
+                <!-- End Expanded About -->
+                <img alt="close" src="images/close-button.png" class="bl-icon-close" />
+            </section>
+            <!-- About Ends -->
+            <!-- Portfolio Starts -->
+            <section id="bl-work-section">
+				<!-- Portfolio Title Starts -->
+                <div class="bl-box valign-wrapper">
+                    <div class="page-title center-align">
+                        <h2 class="center-align">
+                            <span data-hover="my">my </span>
+                            <span data-hover="portfolio">portfolio</span>
+                        </h2>
+                    </div>
+                </div>
+				<!-- Portfolio Title Ends -->
+                <!-- Portfolio Expanded Starts -->
+                <div class="bl-content">
+                    <!-- Main Heading Starts -->
+                    <div class="container page-title center-align">
+                        <h2 class="center-align">
+                            <span data-hover="my">my </span>
+                            <span data-hover="portfolio">portfolio</span>
+                        </h2>
+                    </div>
+                    <!-- Main Heading Ends -->
+                    <div class="container">
+                        <!-- Divider Starts -->
+                        <div class="divider center-align">
+                            <span class="outer-line"></span>
+                            <span class="fa fa-suitcase" aria-hidden="true"></span>
+                            <span class="outer-line"></span>
+                        </div>
+                        <!-- Divider Ends -->
+                        <div class="row center-align da-thumbs" id="bl-work-items">
+                            <!-- Project Starts -->
+                            <div class="col s12 m6 l6 xl4" data-panel="panel-1">
+                                <a href="#">
+									<img class="responsive-img" src="images/projects/jagdish-01.JPG" alt="Project" />
+									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Dhanshree Photos</span></div>
+								</a>
+                            </div>
+                            <div class="col s12 m6 l6 xl4" data-panel="panel-2">
+                                <a href="#">
+									<img class="responsive-img" src="images/projects/logo-green-2x.png" alt="Project" />
+									<div class="valign-wrapper"><span class="font-weight-700 uppercase">Tourism</span></div>
+								</a>
+                            </div>
+                            <!-- Project Ends -->
+                            
+                        </div>
+                    </div>
+                </div>
+                <!-- Portfolio Expanded Ends -->
+                <img alt="close" src="images/close-button.png" class="bl-icon-close" />
+            </section>
+            <!-- Portfolio Section Ends -->
+            <!-- Contact Section Starts -->
+            <section>
+				<!-- Contact Title Starts -->
+                <div class="bl-box valign-wrapper">
+                    <div class="page-title center-align">
+                        <h2 class="center-align">
+                            <span data-hover="get">get </span>
+                            <span data-hover="in touch">in touch</span>
+                        </h2>
+                    </div>
+                </div>
+				<!-- Contact Title Ends -->
+                <!-- Expanded Contact Starts -->
+                <div class="bl-content">
+                    <!-- Main Heading Starts -->
+                    <div class="container page-title center-align">
+                        <h2 class="center-align">
+                            <span data-hover="get">get </span>
+                            <span data-hover="in touch">in touch</span>
+                        </h2>
+                    </div>
+                    <!-- Main Heading Ends -->
+                    <div class="container">
+                        <!-- Divider Starts -->
+                        <div class="divider center-align">
+                            <span class="outer-line"></span>
+                            <span class="fa fa-envelope-open" aria-hidden="true"></span>
+                            <span class="outer-line"></span>
+                        </div>
+                        <!-- Divider Ends -->
+                        <div class="row contact section-padding">
+							<!-- Contact Infos Starts -->
+                            <div class="col s12 m5 l5 xl4 leftside">
+								<!-- Contacts Starts -->
+                                <h6 class="font-weight-700 uppercase">Phone</h6>
+                                <span class="font-weight-400 second-font"><i class="fa fa-phone"></i>+91-9033880905</span>
+								<h6 class="font-weight-700 uppercase">Email</h6>
+								<span class="font-weight-400 second-font"><i class="fa fa-envelope"></i>savanipoojan78@gmail.com</span>
+								<h6 class="font-weight-700 uppercase">Github</h6>
+								<span class="font-weight-400 second-font"><a href="https://github.com/savanipoojan78" target="_blank" style=" text-decoration: inherit;
+                                    color: inherit;"><i class="fa fa-github"></i> savanipoojan78</a></span>
+								<h6 class="font-weight-700 uppercase">Address</h6>
+								<span class="font-weight-400 second-font"><i class="fa fa-home"></i> Gujarat, India</span><br>
+								<!-- Contacts Ends -->
+								<!-- Social Media Profiles Starts -->
+                                <h6 class="font-weight-700 uppercase">Social Profiles</h6>
+                                <div class="social">
+                                    <ul class="list-inline social social-intro center-align p-none">
+                                        <li class="facebook"><a href="https://www.facebook.com/poojan.savani.5" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                                        <li class="twitter"><a href="https://twitter.com/poojan_savani" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                                        <li class="google-plus"><a href="mailto:savanipoojan78@gmail.com" target="_blank"><i class="fa fa-google-plus"></i></a></li>
+                                        <li class="linkedin"><a href="https://www.linkedin.com/in/savani78/" target="_blank"><i class="fa fa-linkedin"></i></a></li>
+                                        <li class="whatsapp"><a href="https://wa.me/919033880905" target="_blank"><i class="fa fa-whatsapp"></i></a></li>
+                                        
+                                    </ul>
+                                </div>
+								<!-- Social Media Profiles Ends -->
+                            </div>
+							<!-- Contact Infos Ends -->
+							<!-- Contact Form Starts -->
+                            <div class="col s12 m7 l7 xl8 rightside">
+								<h6 class="uppercase m-none font-weight-700">Feel free to drop me a line</h6>
+								<div class="row">
+									<p class="col s12 m12 l12 xl10 second-font">
+										If you have any suggestion, project or even you want to say Hello.. Please fill out the form below and I will reply you shortly.
+									</p>
+								</div>
+                                <form class="contactform" method="post" action="/">
+                                    <!-- Name Field Starts -->
+                                    <div class="input-field second-font">
+                                        <i class="fa fa-user prefix"></i>
+                                        <input id="name" name="name" type="text" class="validate" required>
+                                        <label class="font-weight-400" for="name">Your Name</label>
+                                    </div>
+                                    <!-- Name Field Ends -->
+                                    <!-- Email Field Starts -->
+                                    <div class="input-field second-font">
+                                        <i class="fa fa-envelope prefix"></i>
+                                        <input id="email" type="email" name="email" class="validate" required>
+                                        <label for="email">Your Email</label>
+                                    </div>
+                                    <!-- Email Field Ends -->
+                                    <!-- Comment Textarea Starts -->
+                                    <div class="input-field second-font">
+                                        <i class="fa fa-comments prefix"></i>
+                                        <textarea id="comment" name="comment" class="materialize-textarea" required></textarea>
+                                        <label for="comment">Your Comment</label>
+                                    </div>
+                                    <!-- Comment Textarea Ends -->
+									<!-- Submit Form Button Starts -->
+                                    <div class="col s12 m12 l9 xl8 submit-form">
+                                        <button class="btn font-weight-700" type="submit" name="send">
+											Send Message <i class="fa fa-send"></i>
+										</button>
+                                    </div>
+                                    <!-- Submit Form Button Ends -->
+                                    <div class="col s12 m12 l8 xl8 form-message">
+                                        <span class="output_message center-align font-weight-700 uppercase"></span>
+                                    </div>
+                                </form>
+                            </div>
+                            <!-- Contact Form Ends -->
+                        </div>
+                    </div>
+                </div>
+                <!-- Expanded Contact Ends -->
+                <img alt="close" src="images/close-button.png" class="bl-icon-close" />
+            </section>
+            <!-- Contact Section Ends -->
+            <!-- Portfolio Panel Items Starts -->
+            <div class="bl-panel-items" id="bl-panel-work-items">
+				<!-- Project Starts -->
+                <div data-panel="panel-1">
+                    <div class="row">
+                        <!-- Project Main Content Starts -->
+                        <div class="col s12 l6 xl6 section-padding section-padding-right-none">
+                            <img class="responsive-img" src="images/projects/jagdish-01.JPG" alt="project" />
+                        </div>
+                        <!-- Project Main Content Ends -->
+                        <!-- Project Details Starts -->
+                        <div class="col s12 l6 xl6 section-padding">
+                            <h3 class="font-weight-700 uppercase">Dhanshree Photo</h3>
+                            <ul class="project-details second-font">
+                                <li><i class="fa fa-user"></i><span class="font-weight-700"> Client </span>: <span class="font-weight-400 uppercase">Dhanshree Photographer</span></li>
+                                <li><i class="fa fa-calendar-o"></i><span class="font-weight-700"> Start Date </span>: <span class="font-weight-400 uppercase">27/06/2020</span></li>
+								<li><i class="fa fa-calendar-check-o"></i><span class="font-weight-700"> End Date </span>: <span class="font-weight-400 uppercase">10/07/2020</span></li>
+                                <li><i class="fa fa-cogs"></i> <span class="font-weight-700"> Used Technologies</span> : <span class="font-weight-400 uppercase">html, css, javascript,Node js ,MongoDB ,Pug</span></li>
+                            </ul>
+                            <hr>
+                            <a href="https://dhanshreephoto.com/" target="_blank" class="waves-effect waves-light btn font-weight-700">Preview <i class="fa fa-external-link"></i></a>
+                        </div>
+                        <!-- Project Details Ends -->
+                    </div>
+                </div>
+                <div data-panel="panel-2">
+                    <div class="row">
+                        <!-- Project Main Content Starts -->
+                        <div class="col s12 l6 xl6 section-padding section-padding-right-none">
+                            <img class="responsive-img" src="images/projects/logo-green-2x.png" alt="project" />
+                        </div>
+                        <!-- Project Main Content Ends -->
+                        <!-- Project Details Starts -->
+                        <div class="col s12 l6 xl6 section-padding">
+                            <h3 class="font-weight-700 uppercase">Tourism</h3>
+                            <ul class="project-details second-font">
+                                <li><i class="fa fa-user"></i><span class="font-weight-700"> Client </span>: <span class="font-weight-400 uppercase">Natours Tourism</span></li>
+                                <li><i class="fa fa-calendar-o"></i><span class="font-weight-700"> Start Date </span>: <span class="font-weight-400 uppercase">02/02/2020</span></li>
+								<li><i class="fa fa-calendar-check-o"></i><span class="font-weight-700"> End Date </span>: <span class="font-weight-400 uppercase">15/03/2020</span></li>
+                                <li><i class="fa fa-cogs"></i> <span class="font-weight-700"> Used Technologies</span> : <span class="font-weight-400 uppercase">html, css, javascript,Node js ,MongoDB ,Pug</span></li>
+                            </ul>
+                            <hr>
+                            <a href="https://india-tour.herokuapp.com/" target="_blank" class="waves-effect waves-light btn font-weight-700">Preview <i class="fa fa-external-link"></i></a>
+                        </div>
+                        <!-- Project Details Ends -->
+                    </div>
+                </div>
+                <nav>
+                    <!-- Previous Work Icon Starts -->
+                    <span class="control-button bl-previous-work"><i class="fa fa-angle-left"></i></span>
+                    <!-- Previous Work Icon Ends -->
+                    <!-- Close Work Icon Starts -->
+					<img alt="close" src="images/close-button.png" class="control-button bl-icon-close" />
+                    <!-- Close Work Icon Ends -->
+                    <!-- Next Work Icon Starts -->
+                    <span class="control-button bl-next-work"><i class="fa fa-angle-right"></i></span>
+                    <!-- Previous Work Icon Ends -->
+                </nav>
+                <!-- Portfolio Navigation Ends -->
+            </div>
+            <!-- Portfolio Panel Items Ends -->
+        </div>
+    </div>
+    <!-- Wrapper Ends -->
+
+    <!-- Template JS Files -->
+    <script src="js/jquery-2.2.4.min.js"></script>
+    <script src="js/jquery.animatedheadline.js"></script>
+    <script src="js/boxlayout.js"></script>
+    <script src="js/materialize.min.js"></script>
+    <script src="js/jquery.hoverdir.js"></script>
+    <script src="js/custom.js"></script>
+
+    <!-- Live Style Switcher JS File - only demo -->
+    <script src="js/styleswitcher.js"></script>
+</body>
+
+</html>
