@@ -9,26 +9,30 @@
 
 I'm currently working as Manager Software Engineer at Optum(United Health Group). I'm a passionate learner who's always willing to learn and work across technologies and domains, I got a chance to work on variety of domains like : Healthcare, Finance, Digital Marketing, Travel and Hospitality 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Full Stack Engineering and working on my Application Design Skills🤓
 
-<img align="right" height="500" width="350" alt="Hello" src="https://github.com/sushantgadi/sushantgadi.github.io/blob/main/images/hello.gif?raw=true" />
+<!--<img align="right" height="500" width="350" alt="Hello" src="https://github.optum.com/sgadi3/sgadi3/blob/master/images/hello.gif" />-->
 
 ### Talking about Personal Stuffs:
 
 - 🛠 &nbsp; I’m currently working on Java/J2EE, Spring, Microservices, Angular, Javascript, CICD Pipeline, Jenkins, Docker, Kubernetes, Kafka, Elastic Search, Azure, AWS, AEM, Python, AI/ML,
-- 🚀 &nbsp; I’m currently learning application design and architecting applications.
+- 🚀 &nbsp; I’m currently learning chat GPT.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sushantgadi).
 - 👾 &nbsp; Fun fact: Debugging takes more time than actually writing the code.
 - 📫 &nbsp; How to reach me: sushantgadi@gmail.com
 
 ### Certified
+
 <p>
+ <a href="https://www.credly.com/badges/4ec867a8-b48b-46fd-8418-92e2c9745e37/public_url" target="_blank">
+<img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Architect" width="100" height="100"/>
+</a>
  <a href="https://www.credly.com/badges/600d688c-cfde-46c0-b4fc-b0db7fc45424" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" alt="Azure Architect" width="200" height="200"/>
+<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" alt="Azure Architect" width="100" height="100"/>
 </a>
 <a href="https://www.credly.com/badges/295674b0-1a63-423b-9690-d6a71a8a928d" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamental" width="200" height="200"/>
+<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamental" width="100" height="100"/>
 </a>
 <a href="https://drive.google.com/file/d/1YO2wT_LTz1Mp4v5mV6N33a5zFK-3hcua/view" target="_blank">
-<img src="https://itnium.com/Images/ocjp.jpg"  width="200" height="200" alt="OCJP"/>
+<img src="https://blog.kakaocdn.net/dn/5tMNs/btrG4VbuViB/CIViv8rUvlOJwCkdI9Uh3k/img.png"  width="200" height="100" alt="OCJP"/>
 </a>
 <a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
 <img src="https://kristiancoding.files.wordpress.com/2014/11/certified_expert_adobe_experience_manager_developer_badge.png"  width="200" height="100" alt="AEM"/>
