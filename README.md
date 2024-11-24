@@ -13,7 +13,7 @@ I'm currently working as Manager Software Engineer at Optum(United Health Group)
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working on Java/J2EE, Spring, Microservices, Angular, Javascript, CICD Pipeline, Jenkins, Docker, Kubernetes, Kafka, Elastic Search, Azure, AWS, AEM, Python, AI/ML,
+- 🛠 &nbsp; I’m currently working on AI-ML(LLM, NLP, Computer Vision, Neural Networks and Deep Learning), Python, Java, Spring framework, microservices, Angular/React with NextJS, Kafka, ElasticSearch, Docker, Kubernetes, Azure, GraphQL, PostgreSQL, Camunda, AEM.
 - 🚀 &nbsp; I’m currently learning chat GPT.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sushantgadi).
 - 👾 &nbsp; Fun fact: Debugging takes more time than actually writing the code.
