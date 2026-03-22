@@ -2,42 +2,76 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sushantgadi/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://sushantgadi.github.io/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/sushantgadi)
-
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/sushantgadi)
 
 ### Great to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=sushantgadi.sushantgadi&style=flat-square&color=0088cc)
 
-I'm currently working as Manager Software Engineer at Optum(United Health Group). I'm a passionate learner who's always willing to learn and work across technologies and domains, I got a chance to work on variety of domains like : Healthcare, Finance, Digital Marketing, Travel and Hospitality 💡. I love to explore new technologies and leverage them to solve real-life problems ✨.I'm currently into Full Stack Engineering and working on my Application Design Skills🤓
+I'm a Senior Engineering Manager with 14 years of experience leading cross-functional teams in full-cycle software development. Proven expertise in agile delivery, team mentorship, and fostering innovation to exceed organizational goals. Skilled in requirements analysis, system design, prototyping, and implementation across enterprise-scale applications.
 
-<!--<img align="right" height="500" width="350" alt="Hello" src="https://github.optum.com/sgadi3/sgadi3/blob/master/images/hello.gif" />-->
+### Skills
 
-### Talking about Personal Stuffs:
+**Programming & Frameworks:** Java, Python, Spring Boot, Microservices, React, React Native, Next.js, Angular, Adobe Experience Manager (AEM)
 
-- 🛠 &nbsp; I’m currently working on AI-ML(LLM, NLP, Computer Vision, Neural Networks and Deep Learning), Python, Java, Spring framework, microservices, Angular/React with NextJS, Kafka, ElasticSearch, Docker, Kubernetes, Azure, GraphQL, PostgreSQL, Camunda, AEM.
-- 🚀 &nbsp; I’m currently learning chat GPT.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/sushantgadi).
-- 👾 &nbsp; Fun fact: Debugging takes more time than actually writing the code.
-- 📫 &nbsp; How to reach me: sushantgadi@gmail.com
+**AI/ML Technologies:** Large Language Models (LLMs), Natural Language Processing (NLP), Retrieval Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP)
 
-### Certified
+**DevOps & CI/CD:** GitHub Actions, Jenkins, GitLab, Docker, Kubernetes, Kafka
 
-<p>
- <a href="https://www.credly.com/badges/4ec867a8-b48b-46fd-8418-92e2c9745e37/public_url" target="_blank">
-<img src="https://images.credly.com/size/680x680/images/987adb7e-49be-4e24-b67e-55986bd3fe66/azure-solutions-architect-expert-600x600.png" alt="Azure Architect" width="100" height="100"/>
-</a>
- <a href="https://www.credly.com/badges/600d688c-cfde-46c0-b4fc-b0db7fc45424" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/285339cc-675a-4b1a-bdd9-283868af2fc8/EXAM-Expert-AZ-303-600x600.png" alt="Azure Architect" width="100" height="100"/>
-</a>
-<a href="https://www.credly.com/badges/295674b0-1a63-423b-9690-d6a71a8a928d" target="_blank">
-<img src="https://images.credly.com/size/340x340/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="Azure Fundamental" width="100" height="100"/>
-</a>
-<a href="https://drive.google.com/file/d/1YO2wT_LTz1Mp4v5mV6N33a5zFK-3hcua/view" target="_blank">
-<img src="https://blog.kakaocdn.net/dn/5tMNs/btrG4VbuViB/CIViv8rUvlOJwCkdI9Uh3k/img.png"  width="200" height="100" alt="OCJP"/>
-</a>
-<a href="https://drive.google.com/file/d/1JBWbgB2KPi2QSyLjdAsFHSZTJ83RRN_z/view" target="_blank">
-<img src="https://kristiancoding.files.wordpress.com/2014/11/certified_expert_adobe_experience_manager_developer_badge.png"  width="200" height="100" alt="AEM"/>
-</a>
-</p>
+**Cloud Platforms:** Amazon Web Services (AWS), Microsoft Azure
+
+**Monitoring & Analytics:** Splunk, Datadog, Grafana, Adobe Analytics
+
+**Domain:** Proficiency in Consumer Engineering, Healthcare, Banking & Finance, Digital Marketing, Airline, Travel, and Hospitality sectors.
+
+### Certifications
+
+- AI Dojo Gen AI Certification
+- Post Graduate Program in Artificial Intelligence and Machine Learning
+- UnitedHealth Group Emerging Leader Program and PACE – Program for Accelerated Capability, Indian School of Business
+- Microsoft Azure Solution Architect Expert
+- Microsoft Azure Architect Technologies
+- Oracle Certified Java Developer
+- Adobe Experience Manager (AEM) Developer
+
+### Work Experience
+
+**Optum, UnitedHealth Group – Senior Manager Software Engineering** (Feb 2020 - Current)  
+Led a $45M portfolio with 5 scrum teams and 30 members, improving lead time, deployment frequency, defect rate, NPS, and team satisfaction. Spearheaded AI initiatives including AI scheduling agent and LLM-powered semantic search. Managed key projects in healthcare technology using modern stacks.
+
+**Init AG - Lead Java Developer** (Jul 2018 – Feb 2020)  
+Worked on Continental Tires and BPA projects. Technical Stack: Java, Spring, Microservices, AEM, Angular, Bamboo, Docker, Ansible, MySQL.
+
+**Gartner India - Full Stack Engineer** (May 2017 - Jul 2018)  
+Developed Gartner Events and Marketing platform. Technical Stack: Java, Spring, Microservices, AEM, Angular, MySQL.
+
+**Interglobe Technology – Software Engineer** (Jan 2015 - May 2017)  
+Worked on Emirates Airlines Revenue Accounting and United Airline Baggage Claim. Technical Stack: Java, Spring, AngularJS, MySQL, Oracle.
+
+**Tata Consultancy Services - System Engineer** (Dec 2012 - Jan 2015)  
+Developed Project Accounting and Learning Management Systems. Technical Stack: Java/J2EE, Spring, Weblogic, Oracle, Postgres.
+
+### Education
+
+- PACE - Program for Accelerated Capability, Indian School of Business (2025)
+- Post Graduate Program in Artificial Intelligence and Machine Learning, University of Texas at Austin (2024, Grade A 90%)
+- B. Tech with Hons in Information Technology, Abdul Kalam Technical University (2012, 76%)
+
+### Accomplishments
+
+- Recipient of numerous awards for outstanding performance
+- Completed PACE from Indian School of Business
+- Winner of multiple Hackathon competitions
+- Contributor to patent filings at UnitedHealth Group
+- Successful completion of UHG Emerging Leader Program
+- Proficient in establishing high-performance teams
+- Completed AI-ML Program
+
+### Contact
+
+- 📧 Email: sushantgadi@gmail.com
+- 📱 Phone: +91-7678201117
+- 🌐 Website: https://sushantgadi.github.io
+- 💼 LinkedIn: https://www.linkedin.com/in/sushantgadi
+- 🐙 GitHub: https://github.com/sushantgadi
 
 ### Languages and Tools:
 
