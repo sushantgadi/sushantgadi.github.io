@@ -3,689 +3,464 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Sushant - Personal Portfolio</title>
+  <title>Sushant Gadi - Senior Engineering Manager & AI Innovator</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <link href="../../../fonts.googleapis.com/css716c.css?family=Lato:400,700,900" rel="stylesheet" />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/konpa/devicon@master/devicon.min.css" />
+  <meta name="description" content="Portfolio of Sushant Kumar Gadi - Senior Engineering Manager with 14+ years of experience in full-cycle software development, AI/ML, and team leadership." />
+  
+  <!-- Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.0/font/bootstrap-icons.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
 
-  <!-- Template CSS Files -->
-  <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css" />
-  <link rel="stylesheet" type="text/css" href="css/jquery.animatedheadline.css" />
-  <link rel="stylesheet" type="text/css" href="css/materialize.min.css" />
-  <link rel="stylesheet" type="text/css" href="css/style.css" />
-  <link rel="stylesheet" type="text/css" href="css/skins/yellow.css" />
-
-  <!-- Template JS Files -->
+  <!-- Custom CSS -->
+  <link rel="stylesheet" type="text/css" href="css/style-modern.css" />
   <script src="js/modernizr.custom.js"></script>
-  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 </head>
 
-<body class="dark">
-  <!-- Preloader Start -->
-  <div id="loader-wrapper">
-    <div id="loader"></div>
-    <div class="loader-section section-left"></div>
-    <div class="loader-section section-right"></div>
-  </div>
-  <!-- Preloader Ends -->
-  <!-- Live Style Switcher Starts - demo only -->
-  <div id="switcher" class="">
-    <!-- <div class="content-switcher">
-            <h4>STYLE SWITCHER</h4>
-            <ul>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('purple');" title="purple" class="color"><img src="images/styleswitcher/purple.png" alt="purple"/></a>
-                </li>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('red');" title="red" class="color"><img src="images/styleswitcher/red.png" alt="red"/></a>
-                </li>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('blueviolet');" title="blueviolet" class="color"><img src="images/styleswitcher/blueviolet.png" alt="blueviolet"/></a>
-                </li>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('blue');" title="blue" class="color"><img src="images/styleswitcher/blue.png" alt="blue"/></a>
-                </li>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('goldenrod');" title="goldenrod" class="color"><img src="images/styleswitcher/goldenrod.png" alt="goldenrod"/></a>
-                </li>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('magenta');" title="magenta" class="color"><img src="images/styleswitcher/magenta.png" alt="magenta"/></a>
-                </li>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('yellowgreen');" title="yellowgreen" class="color"><img src="images/styleswitcher/yellowgreen.png" alt="yellowgreen"/></a>
-                </li>
-                <li>
-                    <a href="#" onclick="setActiveStyleSheet('orange');" title="orange" class="color"><img src="images/styleswitcher/orange.png" alt="orange"/></a>
-                </li>
-				<li>
-                    <a href="#" onclick="setActiveStyleSheet('green');" title="green" class="color"><img src="images/styleswitcher/green.png" alt="green"/></a>
-                </li>
-				<li>
-                    <a href="#" onclick="setActiveStyleSheet('yellow');" title="yellow" class="color"><img src="images/styleswitcher/yellow.png" alt="yellow"/></a>
-                </li>
-            </ul>
-			<h4>BODY SKIN</h4>
+<body>
+  <!-- Navigation Bar -->
+  <nav class="navbar">
+    <div class="navbar-container">
+      <a href="#home" class="navbar-logo">
+        <span class="logo-icon">SK</span>
+        <span class="logo-text">Sushant</span>
+      </a>
+      
+      <button class="navbar-toggle" id="navbar-toggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
 
-           <label> <input class="dark_switch" type="radio" name="color_style" id="is_light" value="light" /> Light</label>
-		<label> <input class="dark_switch" type="radio" name="color_style" id="is_dark" value="dark"  checked="checked" />  Dark</label><br>
-			
-            <a href="#" class="waves-effect waves-light btn font-weight-700 purchase hoverable"><i class="fa fa-shopping-cart"></i> Purchase</a>
-            <div id="hideSwitcher">&times;</div>
-        </div> -->
-  </div>
-  <!-- <div id="showSwitcher" class="styleSecondColor"><i class="fa fa-cog fa-spin"></i></div> -->
-  <!-- Live Style Switcher Ends - demo only -->
-  <!-- Wrapper Starts -->
-  <div class="wrapper">
-    <div class="main-picture profile hide-on-med-and-down"></div>
-    <div id="bl-main" class="bl-main">
-      <!-- Top Left Section Starts -->
-      <section class="topleft">
-        <div class="bl-box row valign-wrapper">
-          <div class="row valign-wrapper mb-0">
-            <div class="title-heading">
-              <div class="selector uppercase" id="selector">
-                <h3 class="ah-headline p-none m-none">
-                  <span class="font-weight-400">Hey There ! I'm</span>
-                  <span class="my-name">Sushant Kumar Gadi</span>
-                  <span class="ah-words-wrapper">
-                    <b class="is-visible">Senior Engineering Manager</b>
-                    <b>AI Innovator</b>
-                    <b>Team Leader</b>
-                  </span>
-                </h3>
-              </div>
-            </div>
-          </div>
-        </div>
-      </section>
-      <!-- Top Left Section Ends -->
-      <!-- About Section Starts -->
-      <section>
-        <!-- About Title Starts -->
-        <div class="bl-box valign-wrapper">
-          <div class="page-title center-align">
-            <h2 class="center-align">
-              <span data-hover="About">About </span>
-              <span data-hover="Me">Me</span>
-            </h2>
-          </div>
-        </div>
-        <!-- About Title Ends -->
-        <!-- About Expanded Starts -->
-        <div class="bl-content">
-          <!-- Main Heading Starts -->
-          <div class="container page-title custom-page-title">
-            <h2 class="center-align">
-              <span>About</span>
-              <span>Me</span>
-            </h2>
-          </div>
-          <!-- Main Heading Ends -->
-          <div class="container infos">
-            <!-- Divider Starts -->
-            <div class="divider center-align">
-              <span class="outer-line"></span>
-              <span class="fa fa-vcard" aria-hidden="true"></span>
-              <span class="outer-line"></span>
-            </div>
-            <!-- Divider Ends -->
-            <!-- Personal Informations Starts -->
-            <div class="row">
-              <!-- Picture Starts -->
-              <div class="col s12 m4 profile-picture show-on-medium-and-down section-padding">
-                <img src="images/photo-1.jpeg" class="responsive-img my-picture" alt="My Photo" />
-              </div>
-              <!-- Picture Ends -->
-              <div class="col s12 m8 l12 xl12 personal-info section-padding">
-                <h6 class="uppercase">
-                  <i class="fa fa-user"></i> Personal Info
-                </h6>
-                <div class="col m12 l12 xl9 p-none" style="padding-bottom: 30px !important">
-                  <p class="second-font">
-                    Senior Engineering Manager with 14 years of experience leading cross-functional teams in full-cycle software development. Proven expertise in agile delivery, team mentorship, and fostering innovation to exceed organizational goals. Skilled in requirements analysis, system design, prototyping, and implementation across enterprise-scale applications.
-                  </p><br />
-                  <p class="second-font">
-                    <b>Skills</b>: Programming & Frameworks: Java, Python, Spring Boot, Microservices, React, React Native, Next.js, Angular, Adobe Experience Manager (AEM) <br>
-                    AI/ML Technologies: Large Language Models (LLMs), Natural Language Processing (NLP), Retrieval Augmented Generation (RAG), AI Agents, Model Context Protocol (MCP) <br>
-                    DevOps & CI/CD: GitHub Actions, Jenkins, GitLab, Docker, Kubernetes, Kafka <br>
-                    Cloud Platforms: Amazon Web Services (AWS), Microsoft Azure <br>
-                    Monitoring & Analytics: Splunk, Datadog, Grafana, Adobe Analytics <br>
-                    Domain: Proficiency in Consumer Engineering, Healthcare, Banking & Finance, Digital Marketing, Airline, Travel, and Hospitality sectors.
-                  </p><br />
-                  <p class="second-font">
-                    <b>Certifications</b>: • AI Dojo Gen AI Certification <br>
-                    • Post Graduate Program in Artificial Intelligence and Machine Learning <br>
-                    • UnitedHealth Group Emerging Leader Program and PACE – Program for Accelerated Capability, Indian School of Business <br>
-                    • Microsoft Azure Solution Architect Expert <br>
-                    • Microsoft Azure Architect Technologies <br>
-                    • Oracle Certified Java Developer <br>
-                    • Adobe Experience Manager (AEM) Developer
-                  </p>
-                </div>
-                <div class="col s12 m12 l6 p-none">
-                  <ul class="second-font list-1">
-                    <li>
-                      <span class="font-weight-700">First Name: </span>Sushant
-                      Kumar
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Last Name: </span>Gadi
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Date of birth: </span>11
-                      April 1990
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Nationality: </span>Indian
-                    </li>
-                    <li>
-                      <span class="font-weight-700">OpenSource Development: </span><span><a
-                          href="https://github.com/sushantgadi"
-                          target="_blank">https://github.com/sushantgadi</a></span>
-                    </li>
-                  </ul>
-                </div>
-                <div class="col s12 m12 l6 p-none">
-                  <ul class="second-font list-2">
-                    <li>
-                      <span class="font-weight-700">Phone: </span>+91-7678201117
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Address: </span>Gurugram,
-                      India
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Email: </span>sushantgadi@gmail.com
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Spoken Langages: </span>English - Hindi - Punjabi
-                    </li>
-                    <li>
-                      <span class="font-weight-700">LinkedIn: </span><a href="https://www.linkedin.com/in/sushantgadi
-                        target=" _blank">https://www.linkedin.com/in/sushantgadi</a>
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Github: </span><a href="https://github.com/sushantgadi"
-                        target="_blank">https://github.com/sushantgadi</a>
-                    </li>
-                    <li>
-                      <span class="font-weight-700">Blogs: </span><a href="https://medium.com/@sushantgadi"
-                        target="_blank">https://medium.com/@sushantgadi</a>
-                    </li>
-                  </ul>
-                </div>
-                <a href="https://drive.google.com/file/d/1lnApVZeir_EHEsBx0SR7gp2uFRqCqTUL/view?usp=sharing"
-                  class="btn font-weight-700" target="_blank">
-                  My Resume <i class="fa fa-file-pdf-o"></i>
-                </a>
-                <a href="https://github.com/sushantgadi/sushantgadi.github.io/blob/main/README.md"
-                  class="btn btn-blog font-weight-700" target="_blank">
-                  Github Profile <i class="fa fa-edit"></i>
-                </a>
-                <a href="https://medium.com/@sushantgadi" class="btn btn-blog font-weight-700" target="_blank"
-                  style="margin-left: 20px;">
-                  My Blog <i class="fa fa-edit"></i>
-                </a>
-              </div>
-            </div>
-            <!-- Personal Informations Ends -->
-          </div>
-          <!-- Resume Starts -->
-          <div class="resume-container">
-            <div class="container">
-              <div class="valign-wrapper row">
-                <!-- Resume Menu Starts -->
-                <div class="resume-list col l4 section-padding">
-                  <div class="resume-list-item is-active" data-index="0" id="resume-list-item-0">
-                    <div class="resume-list-item-inner">
-                      <h6 class="resume-list-item-title uppercase">
-                        <i class="fa fa-briefcase"></i> Experience
-                      </h6>
-                    </div>
-                  </div>
-                  <div class="resume-list-item" data-index="1" id="resume-list-item-1">
-                    <div class="resume-list-item-inner">
-                      <h6 class="resume-list-item-title uppercase">
-                        <i class="fa fa-graduation-cap"></i> Education
-                      </h6>
-                    </div>
-                  </div>
-                  <div class="resume-list-item" data-index="2" id="resume-list-item-2">
-                    <div class="resume-list-item-inner">
-                      <h6 class="resume-list-item-title uppercase">
-                        <i class="fa fa-star"></i> Accomplishments
-                      </h6>
-                    </div>
-                  </div>
-                </div>
-                <!-- Resume Menu Ends -->
-                <!-- Resume Content Starts -->
-                <div class="col s12 m12 l8 resume-cards-container section-padding">
-                  <div class="resume-cards">
-                    <!-- Experience Starts -->
-                    <div class="resume-card resume-card-0" data-index="0">
-                      <!-- Experience Header Title Starts -->
-                      <div class="resume-card-header">
-                        <div class="resume-card-name">
-                          <i class="fa fa-briefcase"></i> Experience
-                        </div>
-                      </div>
-                      <!-- Experience Header Title Ends -->
-                      <div class="resume-card-body experience">
-                        <div class="resume-card-body-container second-font">
-                          <!-- Single Experience Starts -->
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>Optum, UnitedHealth Group – Senior Manager Software Engineering</span> Gurgaon, India
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i>Feb 2020 - Current</span>
-                            <p>
-                              Led a $45M portfolio with 5 scrum teams and 30 members, improving lead time, deployment frequency, defect rate, NPS, and team satisfaction. Spearheaded AI initiatives including AI scheduling agent and LLM-powered semantic search. Managed projects like MY UHC (Consumer Engineering) serving 55M members using Spring, Microservices, React, React Native, GraphQL, MongoDB, AWS, Kafka, OpenAI/Gemini LLMs, AEM, Splunk, Datadog, Grafana, Adobe Analytics. Directed Utilization Management modernization on Azure with microservices, React/Next.js, Angular, Hasura GraphQL, Postgres, Elasticsearch, Kafka, Camunda, Azure OpenAI GPT-4, OCR. Developed OCR tool for medical documents and Document Storage Solution with Elasticsearch and Azure. Built Specialized Care Services platform with Java, Spring Boot, Angular, AEM, Camunda, Microservices, GraphQL, Docker, Kubernetes, PostgreSQL.
-                            </p>
-                          </div>
-                          <span class="separator"></span>
-                          <!-- Single Experience Starts -->
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>Init AG - Lead Java Developer</span> Berlin, Germany and Gurgaon, India
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i>July 2018 - Feb 2020</span>
-                            <p>
-                              Worked on Continental Tires (https://continentaltire.com) and BPA (https://www.bundesregierung.de) projects. Responsibilities included coding, unit testing, automation testing, CI/CD pipeline. Technical Stack: Java, Spring framework, microservices, AEM, Angular, Bamboo, Docker, Ansible, MYSQL.
-                            </p>
-                          </div>
-                          <span class="separator"></span>
-                          <!-- Single Experience Starts -->
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>Gartner India - Full Stack Engineer</span> Gurgaon, India
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i>May 2017 - July 2018</span>
-                            <p>
-                              Developed Gartner Events and Marketing platform (https://www.gartner.com/en). Responsibilities: coding, unit testing, automation testing. Technical Stack: Java, spring, microservices, AEM, Angular, MySQL.
-                            </p>
-                          </div>
-                          <span class="separator"></span>
-                          <!-- Single Experience Starts -->
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>Interglobe Technology – Software Engineer</span> Dubai, UAE and Gurgaon, India
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i>Jan 2015 - May 2017</span>
-                            <p>
-                              Worked on Emirates Airlines Revenue Accounting System and United Airline Baggage Claim Solution. Responsibilities: coding, unit testing, automation testing. Technical Stack: Java, spring framework, AngularJS, MySQL, Oracle.
-                            </p>
-                          </div>
-                          <span class="separator"></span>
-                          <!-- Single Experience Starts -->
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>Tata Consultancy Services - System Engineer</span> Lucknow, India
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i>Dec 2012 - Jan 2015</span>
-                            <p>
-                              Developed Project Accounting System and Learning and Management System. Responsibilities: coding, unit testing, automation testing. Technical Stack: Java/J2EE, Spring, Weblogic, Oracle, Postgres.
-                            </p>
-                          </div>
-                        </div>
-                      </div>
-                      <!-- Experience Content Starts -->
-                    </div>
-                    <!-- Experience Ends -->
-                    <!-- Education Starts -->
-                    <div class="resume-card resume-card-1" data-index="1">
-                      <!-- Education Header Title Starts -->
-                      <div class="resume-card-header">
-                        <div class="resume-card-name">
-                          <i class="fa fa-graduation-cap"></i> Education
-                        </div>
-                      </div>
-                      <!-- Education Header Title Starts -->
-                      <div class="resume-card-body education">
-                        <div class="resume-card-body-container second-font">
-                          <!-- Multiple Education Starts -->
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>PACE - Program for Accelerated Capability - </span>Indian School of Business (ISB)
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i> 2025</span>
-                            <p>Completed</p>
-                          </div>
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>Post Graduate Program in Artificial Intelligence and Machine Learning - </span>The University of Texas at Austin
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i> 2024</span>
-                            <p>Grade A (90%)</p>
-                          </div>
-                          <div class="resume-content">
-                            <h6 class="uppercase">
-                              <span>B.Tech with Hons in Information Technology - </span>Abdul Kalam Technical University
-                            </h6>
-                            <span class="date"><i class="fa fa-calendar-o"></i> 2008 - 2012</span>
-                            <p>Hons Degree (76%)</p>
-                          </div>
-                          <!-- Multiple Education Ends -->
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Education Ends -->
-                    <!-- Accomplishments Starts -->
-                    <div class="resume-card resume-card-2" data-index="2">
-                      <!-- Accomplishments Header Title Starts -->
-                      <div class="resume-card-header">
-                        <div class="resume-card-name">
-                          <i class="fa fa-star"></i> Accomplishments
-                        </div>
-                      </div>
-                      <!-- Accomplishments Header Title Starts -->
-                      <div class="resume-card-body accomplishments">
-                        <div class="resume-card-body-container second-font">
-                          <ul>
-                            <li>Recipient of numerous awards for outstanding performance across current and previous organizations.</li>
-                            <li>Completed PACE - Program for Accelerated Capability from Indian School of Business.</li>
-                            <li>Winner of multiple Hackathon competitions.</li>
-                            <li>Contributor to patent filings as an inventor at UnitedHealth Group.</li>
-                            <li>Successful completion of the UHG Emerging Leader Program.</li>
-                            <li>Proficient in establishing multiple high-performance teams from scratch.</li>
-                            <li>Completed Post Graduate Program in Artificial Intelligence and Machine Learning (AI-ML).</li>
-                          </ul>
-                        </div>
-                      </div>
-                    </div>
-                    <!-- Skills Ends -->
-                  </div>
-                </div>
-                <!-- Resume Content Ends -->
-              </div>
-            </div>
-          </div>
-          <!-- Resume Ends -->
-          <!-- Fun Facts Starts -->
-          <div class="container badges">
-            <div class="row">
-              <!-- Fact Badge Item Starts -->
-              <div class="col s12 m4 l4 center-align">
-                <h3>
-                  <i class="fa fa-briefcase"></i>
-                  <span class="font-weight-900">10+</span>
-                </h3>
-                <h6 class="uppercase font-weight-700">Years Experience</h6>
-              </div>
-              <!-- Fact Badge Item Ends -->
-              <!-- Fact Badge Item Starts -->
-              <div class="col s12 m4 l4 center-align">
-                <h3>
-                  <i class="fa fa-handshake-o"></i>
-                  <span class="font-weight-900">15+</span>
-                </h3>
-                <h6 class="uppercase font-weight-700">Done Projects</h6>
-              </div>
-              <!-- Fact Badge Item Ends -->
-              <!-- Fact Badge Item Starts -->
-              <div class="col s12 m4 l4 center-align">
-                <h3>
-                  <i class="fa fa-heart-o"></i>
-                  <span class="font-weight-900">12+</span>
-                </h3>
-                <h6 class="uppercase font-weight-700">Happy customers</h6>
-              </div>
-              <!-- Fact Badge Item Ends -->
-            </div>
-          </div>
-          <!-- Fun Facts Ends -->
-        </div>
-        <!-- End Expanded About -->
-        <img alt="close" src="images/close-button.png" class="bl-icon-close" />
-      </section>
-      <!-- About Ends -->
-      <!-- Portfolio Starts -->
-      <section id="bl-work-section">
-        <!-- Portfolio Title Starts -->
-        <div class="bl-box valign-wrapper">
-          <div class="page-title center-align">
-            <h2 class="center-align">
-              <span data-hover="my">my </span>
-              <span data-hover="portfolio">portfolio</span>
-            </h2>
-          </div>
-        </div>
-        <!-- Portfolio Title Ends -->
-        <!-- Portfolio Expanded Starts -->
-        <div class="bl-content">
-          <!-- Main Heading Starts -->
-          <div class="container page-title center-align">
-            <h2 class="center-align">
-              <span data-hover="my">my </span>
-              <span data-hover="portfolio">portfolio</span>
-            </h2>
-          </div>
-          <!-- Main Heading Ends -->
-          <div class="container">
-            <!-- Divider Starts -->
-            <div class="divider center-align">
-              <span class="outer-line"></span>
-              <span class="fa fa-suitcase" aria-hidden="true"></span>
-              <span class="outer-line"></span>
-            </div>
-            <!-- Divider Ends -->
-            <!--Portfolio Start-->
-            <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sushantgadi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sushantgadi?trk=profile-badge">Sushant Kumar Gadi</a></div>
-            <!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="sushantgadi" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sushantgadi?trk=profile-badge">Sushant Kumar Gadi</a></div>
-            <iframe src="https://drive.google.com/file/d/1tpvKp4UcJF9R8-ai1tf_knW-UaPX5K1k/preview" width="640" height="480" allow="autoplay"></iframe> -->
-            <div class="row center-align da-thumbs" id="bl-work-items">
-              
-            <!--Portfolio Start-->
-            </div>
-          </div>
-        </div>
-        <!-- Portfolio Expanded Ends -->
-        <img alt="close" src="images/close-button.png" class="bl-icon-close" />
-      </section>
-      <!-- Portfolio Section Ends -->
-      <!-- Contact Section Starts -->
-      <section>
-        <!-- Contact Title Starts -->
-        <div class="bl-box valign-wrapper">
-          <div class="page-title center-align">
-            <h2 class="center-align">
-              <span data-hover="get">get </span>
-              <span data-hover="in touch">in touch</span>
-            </h2>
-          </div>
-        </div>
-        <!-- Contact Title Ends -->
-        <!-- Expanded Contact Starts -->
-        <div class="bl-content">
-          <!-- Main Heading Starts -->
-          <div class="container page-title center-align">
-            <h2 class="center-align">
-              <span data-hover="get">get </span>
-              <span data-hover="in touch">in touch</span>
-            </h2>
-          </div>
-          <!-- Main Heading Ends -->
-          <div class="container">
-            <!-- Divider Starts -->
-            <div class="divider center-align">
-              <span class="outer-line"></span>
-              <span class="fa fa-envelope-open" aria-hidden="true"></span>
-              <span class="outer-line"></span>
-            </div>
-            <!-- Divider Ends -->
-            <div class="row contact section-padding">
-              <!-- Contact Infos Starts -->
-              <div class="col s12 m5 l5 xl4 leftside">
-                <!-- Contacts Starts -->
-                <h6 class="font-weight-700 uppercase">Phone</h6>
-                <span class="font-weight-400 second-font"><i class="fa fa-phone"></i>+91-7678201117</span>
-                <h6 class="font-weight-700 uppercase">Email</h6>
-                <span class="font-weight-400 second-font"><i class="fa fa-envelope"></i>sushantgadi@gmail.com</span>
-                <h6 class="font-weight-700 uppercase">Github</h6>
-                <span class="font-weight-400 second-font"><a href="https://github.com/sushantgadi" target="_blank"
-                    style="text-decoration: inherit; color: inherit"><i class="fa fa-github"></i> sushantgadi</a></span>
-                <h6 class="font-weight-700 uppercase">Address</h6>
-                <span class="font-weight-400 second-font"><i class="fa fa-home"></i> Gurgaon, India</span><br />
-                <!-- Contacts Ends -->
-                <!-- Social Media Profiles Starts -->
-                <h6 class="font-weight-700 uppercase">Social Profiles</h6>
-                <div class="social">
-                  <ul class="list-inline social social-intro center-align p-none">
-                    <li class="facebook" style="text-align: center">
-                      <a href="https://www.facebook.com/sushant.gadi" target="_blank"><i class="fa fa-facebook"></i></a>
-                    </li>
-                    <li class="twitter" style="text-align: center">
-                      <a href="https://twitter.com/sushantgadi" target="_blank"><i class="fa fa-twitter"></i></a>
-                    </li>
-                    <li class="google-plus" style="text-align: center">
-                      <a href="mailto:sushantgadi78@gmail.com" target="_blank"><i class="fa fa-google-plus"></i></a>
-                    </li>
-                    <li class="linkedin" style="text-align: center">
-                      <a href="https://www.linkedin.com/in/sushantgadi/" target="_blank"><i
-                          class="fa fa-linkedin"></i></a>
-                    </li>
-                    <li class="whatsapp" style="text-align: center">
-                      <a href="https://wa.me/917678201117" target="_blank"><i class="fa fa-whatsapp"></i></a>
-                    </li>
-                  </ul>
-                </div>
-                <!-- Social Media Profiles Ends -->
-              </div>
-              <!-- Contact Infos Ends -->
-              <!-- Contact Form Starts -->
-              <div class="col s12 m7 l7 xl8 rightside">
-                <h6 class="uppercase m-none font-weight-700">
-                  Feel free to drop me a line
-                </h6>
-                <div class="row">
-                  <p class="col s12 m12 l12 xl10 second-font">
-                    If you have any suggestion, or even you want to
-                    say Hello.. Please fill out the form below and I will
-                    reply you shortly.
-                  </p>
-                </div>
-                <form class="contactform" method="post" action="/">
-                  <!-- Name Field Starts -->
-                  <div class="input-field second-font">
-                    <i class="fa fa-user prefix"></i>
-                    <input id="name" name="name" type="text" class="validate" required />
-                    <label class="font-weight-400" for="name">Your Name</label>
-                  </div>
-                  <!-- Name Field Ends -->
-                  <!-- Email Field Starts -->
-                  <div class="input-field second-font">
-                    <i class="fa fa-envelope prefix"></i>
-                    <input id="email" type="email" name="email" class="validate" required />
-                    <label for="email">Your Email</label>
-                  </div>
-                  <!-- Email Field Ends -->
-                  <!-- Comment Textarea Starts -->
-                  <div class="input-field second-font">
-                    <i class="fa fa-comments prefix"></i>
-                    <textarea id="comment" name="comment" class="materialize-textarea" required></textarea>
-                    <label for="comment">Your Comment</label>
-                  </div>
-                  <!-- Comment Textarea Ends -->
-                  <!-- Submit Form Button Starts -->
-                  <div class="col s12 m12 l9 xl8 submit-form">
-                    <button class="btn font-weight-700" type="submit" name="send">
-                      Send Message <i class="fa fa-send"></i>
-                    </button>
-                  </div>
-                  <!-- Submit Form Button Ends -->
-                  <div class="col s12 m12 l8 xl8 form-message">
-                    <span class="output_message center-align font-weight-700 uppercase"></span>
-                  </div>
-                </form>
-              </div>
-              <!-- Contact Form Ends -->
-            </div>
-          </div>
-        </div>
-        <!-- Expanded Contact Ends -->
-        <img alt="close" src="images/close-button.png" class="bl-icon-close" />
-      </section>
-      <!-- Contact Section Ends -->
-      <!-- Portfolio Panel Items Starts -->
-      <div class="bl-panel-items" id="bl-panel-work-items">
-        <!-- Project Starts -->
-        <div data-panel="panel-1">
-          <div class="row">
-            <!-- Project Main Content Starts -->
-            <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-              <img class="responsive-img" src="images/projects/jagdish-01.JPG" alt="project" />
-            </div>
-            <!-- Project Main Content Ends -->
-            <!-- Project Details Starts -->
-            <div class="col s12 l6 xl6 section-padding">
-              <h3 class="font-weight-700 uppercase">Dhanshree Photo</h3>
-              <ul class="project-details second-font">
-                <li>
-                  <i class="fa fa-user"></i><span class="font-weight-700"> Client </span>:
-                  <span class="font-weight-400 uppercase">Dhanshree Photographer</span>
-                </li>
-                <li>
-                  <i class="fa fa-calendar-o"></i><span class="font-weight-700"> Start Date </span>:
-                  <span class="font-weight-400 uppercase">27/06/2020</span>
-                </li>
-                <li>
-                  <i class="fa fa-calendar-check-o"></i><span class="font-weight-700"> End Date </span>:
-                  <span class="font-weight-400 uppercase">10/07/2020</span>
-                </li>
-                <li>
-                  <i class="fa fa-cogs"></i>
-                  <span class="font-weight-700"> Used Technologies</span> :
-                  <span class="font-weight-400 uppercase">html, css, javascript,Node js ,MongoDB ,Pug</span>
-                </li>
-              </ul>
-              <hr />
-              <a href="https://dhanshreephoto.com/" target="_blank"
-                class="waves-effect waves-light btn font-weight-700">Preview <i class="fa fa-external-link"></i></a>
-            </div>
-            <!-- Project Details Ends -->
-          </div>
-        </div>
-        <div data-panel="panel-2">
-          <div class="row">
-            <!-- Project Main Content Starts -->
-            <div class="col s12 l6 xl6 section-padding section-padding-right-none">
-              <img class="responsive-img" src="images/projects/logo-green-2x.png" alt="project" />
-            </div>
-            <!-- Project Main Content Ends -->
-            <!-- Project Details Starts -->
-           
-            <!-- Project Details Ends -->
-          </div>
-        </div>
-        <nav>
-          <!-- Previous Work Icon Starts -->
-          <span class="control-button bl-previous-work"><i class="fa fa-angle-left"></i></span>
-          <!-- Previous Work Icon Ends -->
-          <!-- Close Work Icon Starts -->
-          <img alt="close" src="images/close-button.png" class="control-button bl-icon-close" />
-          <!-- Close Work Icon Ends -->
-          <!-- Next Work Icon Starts -->
-          <span class="control-button bl-next-work"><i class="fa fa-angle-right"></i></span>
-          <!-- Previous Work Icon Ends -->
-        </nav>
-        <!-- Portfolio Navigation Ends -->
-      </div>
-      <!-- Portfolio Panel Items Ends -->
+      <ul class="navbar-menu" id="navbar-menu">
+        <li class="navbar-item"><a href="#home" class="navbar-link">Home</a></li>
+        <li class="navbar-item"><a href="#about" class="navbar-link">About</a></li>
+        <li class="navbar-item"><a href="#experience" class="navbar-link">Experience</a></li>
+        <li class="navbar-item"><a href="#portfolio" class="navbar-link">Portfolio</a></li>
+        <li class="navbar-item"><a href="#contact" class="navbar-link">Contact</a></li>
+      </ul>
     </div>
-  </div>
-  <!-- Wrapper Ends -->
+  </nav>
 
-  <!-- Template JS Files -->
-  <script src="js/jquery-2.2.4.min.js"></script>
-  <script src="js/jquery.animatedheadline.js"></script>
-  <script src="js/boxlayout.js"></script>
-  <script src="js/materialize.min.js"></script>
-  <script src="js/jquery.hoverdir.js"></script>
-  <script src="js/custom.js"></script>
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <div class="hero-content">
+      <div class="hero-text">
+        <h1 class="hero-title">
+          Hey There! I'm <span class="gradient-text">Sushant Kumar Gadi</span>
+        </h1>
+        <p class="hero-subtitle">
+          Senior Engineering Manager | AI Innovator | Team Leader
+        </p>
+        <p class="hero-description">
+          14+ years building innovative software solutions, leading high-performance teams, and driving digital transformation across enterprise-scale applications.
+        </p>
+        <div class="hero-buttons">
+          <a href="#about" class="btn btn-primary">Learn More</a>
+          <a href="https://drive.google.com/file/d/1lnApVZeir_EHEsBx0SR7gp2uFRqCqTUL/view?usp=sharing" target="_blank" class="btn btn-secondary">
+            <i class="fas fa-file-pdf"></i> Resume
+          </a>
+        </div>
+      </div>
+      <div class="hero-image">
+        <img src="images/profile.jpg" alt="Sushant Kumar Gadi" class="hero-img">
+      </div>
+    </div>
+    <div class="scroll-indicator">
+      <span>Scroll to explore</span>
+      <i class="fas fa-chevron-down"></i>
+    </div>
+  </section>
 
-  <!-- Live Style Switcher JS File - only demo -->
-  <script src="js/styleswitcher.js"></script>
+  <!-- About Section -->
+  <section id="about" class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">About Me</h2>
+        <div class="section-divider"></div>
+      </div>
+
+      <div class="about-grid">
+        <div class="about-card">
+          <div class="card-icon">
+            <i class="fas fa-briefcase"></i>
+          </div>
+          <h3>Professional Background</h3>
+          <p>
+            Senior Engineering Manager at Optum (UnitedHealth Group) with expertise in leading cross-functional teams, agile delivery, and fostering innovation across enterprise-scale applications. Proven track record of exceeding organizational goals.
+          </p>
+        </div>
+
+        <div class="about-card">
+          <div class="card-icon">
+            <i class="fas fa-code"></i>
+          </div>
+          <h3>Technical Expertise</h3>
+          <p>
+            Proficient in Java, Python, Spring Boot, React, React Native, Next.js, and microservices architecture. Deep expertise in AI/ML technologies including LLMs, NLP, RAG, and AI Agents. Cloud platforms: AWS, Azure.
+          </p>
+        </div>
+
+        <div class="about-card">
+          <div class="card-icon">
+            <i class="fas fa-graduation-cap"></i>
+          </div>
+          <h3>Continuous Learning</h3>
+          <p>
+            Completed Post Graduate Program in AI/ML from UT Austin (Grade A). Microsoft Azure Certified Solution Architect. AI Dojo Gen AI Certification. Holder of multiple professional certifications and awards.
+          </p>
+        </div>
+      </div>
+
+      <div class="stats">
+        <div class="stat-item">
+          <h3 class="stat-number">14+</h3>
+          <p>Years of Experience</p>
+        </div>
+        <div class="stat-item">
+          <h3 class="stat-number">50+</h3>
+          <p>Projects Delivered</p>
+        </div>
+        <div class="stat-item">
+          <h3 class="stat-number">30+</h3>
+          <p>Team Members Led</p>
+        </div>
+        <div class="stat-item">
+          <h3 class="stat-number">5+</h3>
+          <p>Industries Served</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- Experience Section -->
+  <section id="experience" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Professional Experience</h2>
+        <div class="section-divider"></div>
+      </div>
+
+      <div class="experience-list">
+        <div class="experience-item">
+          <div class="experience-timeline">
+            <div class="timeline-dot"></div>
+          </div>
+          <div class="experience-content">
+            <h3>Senior Manager, Software Engineering</h3>
+            <p class="company">Optum, UnitedHealth Group • Gurgaon, India</p>
+            <p class="date"><i class="fas fa-calendar"></i> Feb 2020 - Present</p>
+            <ul class="experience-details">
+              <li>Led $45M portfolio with 5 scrum teams and 30+ members</li>
+              <li>Improved lead time, deployment frequency, and NPS metrics significantly</li>
+              <li>Spearheaded AI initiatives including AI scheduling agents and LLM-powered search</li>
+              <li>Tech stack: Spring Boot, Microservices, React, Next.js, AWS, Azure, Kafka, GraphQL</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="experience-item">
+          <div class="experience-timeline">
+            <div class="timeline-dot"></div>
+          </div>
+          <div class="experience-content">
+            <h3>Lead Java Developer</h3>
+            <p class="company">Init AG • Berlin, Germany & Gurgaon, India</p>
+            <p class="date"><i class="fas fa-calendar"></i> July 2018 - Feb 2020</p>
+            <ul class="experience-details">
+              <li>Developed enterprise solutions for Continental Tires and government projects</li>
+              <li>Implemented CI/CD pipelines and automation testing frameworks</li>
+              <li>Tech stack: Java, Spring, AEM, Angular, Docker, Ansible</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="experience-item">
+          <div class="experience-timeline">
+            <div class="timeline-dot"></div>
+          </div>
+          <div class="experience-content">
+            <h3>Full Stack Engineer</h3>
+            <p class="company">Gartner India • Gurgaon, India</p>
+            <p class="date"><i class="fas fa-calendar"></i> May 2017 - July 2018</p>
+            <ul class="experience-details">
+              <li>Developed Gartner Events and Marketing platform</li>
+              <li>Tech stack: Java, Spring, Microservices, AEM, Angular, MySQL</li>
+            </ul>
+          </div>
+        </div>
+
+        <div class="experience-item">
+          <div class="experience-timeline">
+            <div class="timeline-dot"></div>
+          </div>
+          <div class="experience-content">
+            <h3>Software Engineer</h3>
+            <p class="company">Interglobe Technology • Dubai & Gurgaon</p>
+            <p class="date"><i class="fas fa-calendar"></i> Jan 2015 - May 2017</p>
+            <ul class="experience-details">
+              <li>Emirates Airlines Revenue Accounting and United Airlines Baggage Claim systems</li>
+              <li>Tech stack: Java, Spring, AngularJS, MySQL, Oracle</li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills" class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Skills & Expertise</h2>
+        <div class="section-divider"></div>
+      </div>
+
+      <div class="skills-grid">
+        <div class="skill-category">
+          <h4 class="skill-category-title">Programming & Frameworks</h4>
+          <div class="skill-tags">
+            <span class="skill-tag">Java</span>
+            <span class="skill-tag">Python</span>
+            <span class="skill-tag">Spring Boot</span>
+            <span class="skill-tag">React</span>
+            <span class="skill-tag">React Native</span>
+            <span class="skill-tag">Next.js</span>
+            <span class="skill-tag">Angular</span>
+            <span class="skill-tag">GraphQL</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h4 class="skill-category-title">AI/ML Technologies</h4>
+          <div class="skill-tags">
+            <span class="skill-tag">Large Language Models</span>
+            <span class="skill-tag">NLP</span>
+            <span class="skill-tag">RAG</span>
+            <span class="skill-tag">AI Agents</span>
+            <span class="skill-tag">Model Context Protocol</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h4 class="skill-category-title">Cloud & DevOps</h4>
+          <div class="skill-tags">
+            <span class="skill-tag">AWS</span>
+            <span class="skill-tag">Azure</span>
+            <span class="skill-tag">Docker</span>
+            <span class="skill-tag">Kubernetes</span>
+            <span class="skill-tag">Kafka</span>
+            <span class="skill-tag">GitHub Actions</span>
+            <span class="skill-tag">Jenkins</span>
+          </div>
+        </div>
+
+        <div class="skill-category">
+          <h4 class="skill-category-title">Databases & Tools</h4>
+          <div class="skill-tags">
+            <span class="skill-tag">PostgreSQL</span>
+            <span class="skill-tag">MongoDB</span>
+            <span class="skill-tag">Elasticsearch</span>
+            <span class="skill-tag">Splunk</span>
+            <span class="skill-tag">Datadog</span>
+            <span class="skill-tag">AEM</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Portfolio Section -->
+  <!-- <section id="portfolio" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Featured Projects</h2>
+        <div class="section-divider"></div>
+      </div>
+
+      <div class="projects-grid">
+        <div class="project-card">
+          <div class="project-image">
+            <img src="images/projects/jagdish-01.JPG" alt="Dhanshree Photo">
+            <div class="project-overlay">
+              <a href="https://dhanshreephoto.com/" target="_blank" class="project-link">View Project</a>
+            </div>
+          </div>
+          <div class="project-info">
+            <h3>Dhanshree Photography</h3>
+            <p class="project-description">Professional photography portfolio website</p>
+            <div class="project-tech">
+              <span>HTML</span>
+              <span>CSS</span>
+              <span>JavaScript</span>
+              <span>Node.js</span>
+              <span>MongoDB</span>
+            </div>
+          </div>
+        </div>
+
+        <div class="project-card">
+          <div class="project-image">
+            <img src="images/projects/logo-green-2x.png" alt="AI Initiatives">
+            <div class="project-overlay">
+              <a href="#contact" class="project-link">Inquire</a>
+            </div>
+          </div>
+          <div class="project-info">
+            <h3>Enterprise AI Solutions</h3>
+            <p class="project-description">AI-powered business applications and automation</p>
+            <div class="project-tech">
+              <span>LLMs</span>
+              <span>RAG</span>
+              <span>Python</span>
+              <span>Azure</span>
+              <span>FastAPI</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section> -->
+
+  <!-- Education Section -->
+  <section id="education" class="section">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Education & Certifications</h2>
+        <div class="section-divider"></div>
+      </div>
+
+      <div class="education-list">
+        <div class="education-item">
+          <div class="education-icon">
+            <i class="fas fa-book"></i>
+          </div>
+          <div class="education-content">
+            <h3>PACE - Program for Accelerated Capability</h3>
+            <p class="institution">Indian School of Business (ISB)</p>
+            <p class="year">2025</p>
+          </div>
+        </div>
+
+        <div class="education-item">
+          <div class="education-icon">
+            <i class="fas fa-graduation-cap"></i>
+          </div>
+          <div class="education-content">
+            <h3>Post Graduate Program in AI & Machine Learning</h3>
+            <p class="institution">University of Texas at Austin</p>
+            <p class="year">2024 • Grade A (90%)</p>
+          </div>
+        </div>
+
+        <div class="education-item">
+          <div class="education-icon">
+            <i class="fas fa-certificate"></i>
+          </div>
+          <div class="education-content">
+            <h3>Multiple Professional Certifications</h3>
+            <p class="institution">Microsoft, Oracle, Adobe</p>
+            <p class="year">Azure Architect • Java Developer • AEM Developer</p>
+          </div>
+        </div>
+
+        <div class="education-item">
+          <div class="education-icon">
+            <i class="fas fa-award"></i>
+          </div>
+          <div class="education-content">
+            <h3>B.Tech in Information Technology (Hons)</h3>
+            <p class="institution">Abdul Kalam Technical University</p>
+            <p class="year">2008 - 2012 • 76%</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact Section -->
+  <section id="contact" class="section section-alt">
+    <div class="container">
+      <div class="section-header">
+        <h2 class="section-title">Get In Touch</h2>
+        <div class="section-divider"></div>
+      </div>
+
+      <div class="contact-wrapper">
+        <div class="contact-info">
+          <div class="contact-item">
+            <i class="fas fa-phone"></i>
+            <div class="contact-text">
+              <h4>Phone</h4>
+              <a href="tel:+917678201117">+91-7678-201-117</a>
+            </div>
+          </div>
+
+          <div class="contact-item">
+            <i class="fas fa-envelope"></i>
+            <div class="contact-text">
+              <h4>Email</h4>
+              <a href="mailto:sushantgadi@gmail.com">sushantgadi@gmail.com</a>
+            </div>
+          </div>
+
+          <div class="contact-item">
+            <i class="fas fa-map-marker-alt"></i>
+            <div class="contact-text">
+              <h4>Location</h4>
+              <p>Gurgaon, India</p>
+            </div>
+          </div>
+        </div>
+
+        <div class="social-links">
+          <a href="https://github.com/sushantgadi" target="_blank" title="GitHub" class="social-icon">
+            <i class="fab fa-github"></i>
+          </a>
+          <a href="https://www.linkedin.com/in/sushantgadi/" target="_blank" title="LinkedIn" class="social-icon">
+            <i class="fab fa-linkedin"></i>
+          </a>
+          <a href="https://twitter.com/sushantgadi" target="_blank" title="Twitter" class="social-icon">
+            <i class="fab fa-twitter"></i>
+          </a>
+          <a href="https://medium.com/@sushantgadi" target="_blank" title="Medium" class="social-icon">
+            <i class="fab fa-medium"></i>
+          </a>
+          <a href="https://wa.me/917678201117" target="_blank" title="WhatsApp" class="social-icon">
+            <i class="fab fa-whatsapp"></i>
+          </a>
+        </div>
+
+        <div class="contact-form">
+          <h3>Send me a message</h3>
+          <form id="contact-form">
+            <div class="form-group">
+              <input type="text" id="form-name" placeholder="Your Name" required>
+            </div>
+            <div class="form-group">
+              <input type="email" id="form-email" placeholder="Your Email" required>
+            </div>
+            <div class="form-group">
+              <textarea id="form-message" placeholder="Your Message" rows="5" required></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Send Message</button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2024 Sushant Kumar Gadi. All rights reserved.</p>
+      <p>Crafted with passion | AI Enthusiast | Tech Leader</p>
+    </div>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/ScrollTrigger.min.js"></script>
+  <script src="js/modern.js"></script>
 </body>
 
 </html>
